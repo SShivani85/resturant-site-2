@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+header, footer {
+    background-color: red;
+    color: white;
+}
+
+.border {
+    border: thick solid blue;
+}
